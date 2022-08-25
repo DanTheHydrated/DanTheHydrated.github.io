@@ -21,7 +21,7 @@ Overall I'm excited, nervous, and loving it! (side note I've never had more tabs
 
 <h3> What am I exited to learn more about? </h3>
   
-  &nbsp;&nbsp;&nbsp;&nbsp; I've always wanted to make my own website that tracks the current location of the ISS in real time! the all you would need to do is look at the site (perferably an app honestly) and itll tell you where to look and what to look for! 
+  &nbsp;&nbsp;&nbsp;&nbsp; I've always wanted to make my own website that tracks the current location of the ISS in real time! the all you would need to do is look at the site (perferably an app honestly) and it'll tell you where to look and what to look for! 
   
 ---
 
