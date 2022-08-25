@@ -27,6 +27,6 @@ Overall I'm excited, nervous, and loving it! (side note I've never had more tabs
 
 <h3> What can you only learn here? </h3> 
 
-  &nbsp;&nbsp;&nbsp;&nbsp; well all week I've had a Live stream up that shows the Artemis 1 SLS rocket on the Launch Platform! I'll have this up until Monday the 29th! The two hour launch window opens at 8:33am!
+  &nbsp;&nbsp;&nbsp;&nbsp; well all week I've had a Live stream up that shows the Artemis 1 SLS rocket on the Launch Platform! I'll have this up until Monday the 29th! The two hour launch window opens at 8:33am! #WEAREGOING!
  
   
