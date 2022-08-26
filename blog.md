@@ -17,6 +17,8 @@ Lets go a little bit more in detail on those topics really quick!
   &nbsp;&nbsp;&nbsp;&nbsp; I honestly expected a lot of reading but not this much. I also am jumping back into school for the first time in a few years so its a wild adjustment for me. 
 Overall I'm excited, nervous, and loving it! (side note I've never had more tabs open in my life)
 
+![Pepe crying while working](images/crying_pepe)
+
 ---
 
 <h3> What am I exited to learn more about? </h3>
@@ -30,3 +32,5 @@ Overall I'm excited, nervous, and loving it! (side note I've never had more tabs
   &nbsp;&nbsp;&nbsp;&nbsp; well all week I've had a Live stream up that shows the Artemis 1 SLS rocket on the Launch Platform! I'll have this up until Monday the 29th! The two hour launch window opens at 8:33am! #WEAREGOING!
  
   ![Artemis1 mission plan](images/Artemis1)
+  
+  If you'd like to learn more about [Artemis 1](https://www.nasa.gov/artemis-1)
