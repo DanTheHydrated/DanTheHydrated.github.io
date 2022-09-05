@@ -17,7 +17,7 @@ p {
   }
 
 h1 { 
-  text-align: center; 
+   
   color: #0A62D0;
 }
 
@@ -29,6 +29,14 @@ h2 {
 h3 { 
   text-align: center; 
   color: #77dd77;
+}
+h1.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #0A62D0;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
 }
 
 
