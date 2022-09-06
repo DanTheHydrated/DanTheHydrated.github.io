@@ -9,6 +9,9 @@ img {
 
 body {
     background-color: #E0E5E9;
+    width: 70%;
+    min-width: 800px;
+    margin: 0 auto;
  }
  
 p {
@@ -17,7 +20,7 @@ p {
   }
 
 h1 { 
-   
+   text-align: center;
   color: #0A62D0;
 }
 
@@ -40,4 +43,16 @@ h1.center {
   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXtkvkM4Wc3Nsc%2Fgiphy.gif&f=1&nofb=1);
 }
 
+/* This is controlling the blog links, style will change when functionality is resolved */
+
+nav {
+  height: 75px;
+  flex: 100%;
+  display: flex;
+}
+nav li {
+  display: inline;
+  text-align: center;
+  flex: 1;
+}
 
