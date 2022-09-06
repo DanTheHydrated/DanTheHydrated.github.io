@@ -33,6 +33,7 @@ h3 {
   text-align: center; 
   color: #77dd77;
 }
+
 h1.center {
   margin: auto;
   width: 50%;
@@ -40,10 +41,11 @@ h1.center {
   border-radius: 5px;
   padding: 10px;
   text-align: center;
-  background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXtkvkM4Wc3Nsc%2Fgiphy.gif&f=1&nofb=1);
+  /* background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXtkvkM4Wc3Nsc%2Fgiphy.gif&f=1&nofb=1); */
+  background-image: url('./images/raining.gif'); /* This should look relative to this file because of the ./ */
 }
 
-/* This is controlling the blog links, style will change when functionality is resolved */
+/* This is the blog links, style will change when functionality is resolved */
 
 nav {
   height: 75px;
