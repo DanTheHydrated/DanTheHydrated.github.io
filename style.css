@@ -2,35 +2,35 @@
 /* Refrence in <head> to style the html */
 
 img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto; 
- }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 body {
-    background-color: #E0E5E9;
-    width: 70%;
-    min-width: 800px;
-    margin: 0 auto;
- }
- 
-p {
-  text-align: center; 
-  color: #191718;
-  }
+  background-color: #E0E5E9;
+  width: 70%;
+  min-width: 800px;
+  margin: 0 auto;
+}
 
-h1 { 
-   text-align: center;
+p {
+  text-align: center;
+  color: #191718;
+}
+
+h1 {
+  text-align: center;
   color: #0A62D0;
 }
 
-h2 { 
-  text-align: center; 
+h2 {
+  text-align: center;
   color: #6B2C0B;
 }
 
-h3 { 
-  text-align: center; 
+h3 {
+  text-align: center;
   color: #003E78;
 }
 
@@ -42,7 +42,8 @@ h1.center {
   padding: 10px;
   text-align: center;
   /* background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXtkvkM4Wc3Nsc%2Fgiphy.gif&f=1&nofb=1); */
-  background-image: url('./images/raining.gif'); /* This should look relative to this file because of the ./ */
+  background-image: url('./images/raining.gif');
+  /* This should look relative to this file because of the ./ */
 }
 
 /* This is the blog links, style will change when functionality is resolved */
@@ -52,9 +53,9 @@ nav {
   flex: 100%;
   display: flex;
 }
+
 nav li {
   display: inline;
   text-align: center;
   flex: 1;
 }
-
